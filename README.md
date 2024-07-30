@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrendonPedro
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js, Typescript, and cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
