@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrendonPedro
 - 👀 I’m interested in FullStack
-- 🌱 I’m currently learning Node.js, Typescript, Next.js, Firebase, Drizzle, Docker, and cloud computing
+- 🌱 I’m currently learning Node.js, Typescript, Next.js, Firebase, Supabase, Drizzle, Docker, and cloud computing (GCP)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
